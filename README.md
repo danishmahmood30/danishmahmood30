@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am
-
+I am a front-end web developer 
+I am currently learning MEAN stack technologies
 <!--
 **danishmahmood30/danishmahmood30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
